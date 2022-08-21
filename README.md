@@ -3,7 +3,7 @@ Powersehell Scripts for sysadmin daily tasks
 
 Following you find out some powershell scripts you can use for your daily admin tasks included:
 
-InstallSoftByComputer.ps1
+InstallSoftByComputer.ps1 (list of programs installed on the target computer)
 
 ChangeComputerName.ps1
 
